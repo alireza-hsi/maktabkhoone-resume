@@ -1,0 +1,67 @@
+{
+    "title": "Hello i'm Alireza!",
+    "subtitle": "Front-End Developer | Industrial engineering student",
+    "links": {
+        "github": "https://github.com/alireza-hsi",
+        "instagram": "https://www.instagram.com/alirezahsi_",
+        "stackoverflow": "https://stackoverflow.com/story/alirezahsi_"
+    },
+    "sections": [
+        {
+            "title": "about",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "hi my name is Alireza Houshidari i study Industrial engineering but i like coding so i started to learn and i found im intressted in front- end developing and i learn it beside my university studies and now you are in my resume project :)"
+                }
+            ]
+        },
+        {
+            "title": "skils",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./images/react1",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "url/",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "url/",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "url/",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "url/",
+                        "title": "Bootstrap"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "url/",
+                        "title": "SASS"
+                    }
+                }
+            ]
+        }
+    ]
+}
